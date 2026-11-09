@@ -1,0 +1,8 @@
+# Retired placeholder token from legacy documentation examples and UI preview fixtures
+# committed prior to 99768d8eb4645cdab8cbd4d5196a90b5647a933b.
+29aa8030c949de2e5c82b3758d823cd38b5e1ca5:README.md:generic-api-key:105
+29aa8030c949de2e5c82b3758d823cd38b5e1ca5:README.es.md:generic-api-key:73
+29aa8030c949de2e5c82b3758d823cd38b5e1ca5:site/SERVER/index.html:generic-api-key:1387
+39c63f2d912371f371db479906ca884f33740844:client/tools/ui_preview.py:generic-api-key:33
+29aa8030c949de2e5c82b3758d823cd38b5e1ca5:site/search/search_index.json:generic-api-key:1
+f29f9540413881c1fccaeef854e2be07983f4993:docs/SERVER.md:generic-api-key:31
